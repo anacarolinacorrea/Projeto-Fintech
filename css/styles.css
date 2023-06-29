@@ -1,0 +1,115 @@
+
+body {
+    background-color: #f8f9fa;
+  }
+ 
+  .card {
+    margin-top: 50px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+
+
+
+  .container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .extrato{
+    width: 100%;
+    height: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+
+  }
+
+
+  .investments {
+    width: 100%;
+    height: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+  }
+  
+  .transfer {
+    width: 100%;
+    height: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+  }
+  
+  .payments {
+    width: 100%;
+    height: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+  }
+  
+  .cards {
+    width: 100%;
+    height: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+  }
+  
+  .pix {
+    width: 100%;
+    height: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+  }
+  
+
+  
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+  
